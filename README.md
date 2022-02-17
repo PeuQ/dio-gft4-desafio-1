@@ -4,6 +4,6 @@ Este repositório foi criado para cumprir o desafio de criar um repositório usa
 
 
 
-Nota:
+Projeto Inicial: Simulador de caixa eletrônico feito em Python.
 
-Adicionarei anotações das  aulas de Estrutura de Dados do bootcamp, que serviram como revisão.
+Obs.: Código escrito em Inglês
